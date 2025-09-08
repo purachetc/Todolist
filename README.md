@@ -27,7 +27,7 @@ POST http://localhost:3000/todos
 
 Body (JSON):
 {
-"title": "ซื้อของที่ซูเปอร์"
+"title": "test ไปเดินตลาด"
 }
 
 - **PATCH** – อัปเดตข้อมูลบางส่วน (title หรือ completed)  
